@@ -45,7 +45,7 @@
   {% if font_families != '' %}
     {% assign font_families = font_families | append: '&subset=latin,latin-ext' %}
     {% assign font_host = font_config.host | default: '//fonts.googleapis.com' %}
-    <link href="{{ font_host }}/css?family={{ font_families }}" rel="stylesheet" type="text/css">
+    
   {% endif %}
 
 {% endif %}
