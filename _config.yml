@@ -1,1 +1,25 @@
-theme: jekyll-theme-minimal
+permalink: /:year:month:day/:title
+url: #Your url here
+baseurl: /
+
+# variables
+name: Ans
+description: 一个分享技术乐趣的博客
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
