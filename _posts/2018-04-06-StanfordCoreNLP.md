@@ -3,7 +3,7 @@ layout: default
 title: StanfordCoreNLP
 date: 2018-04-06
 categories: NLP
-tags: [NLP]
+tags: NLP
 description: StanfordCoreNLP是一个自然语言处理的开源项目，支持多种语言。
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: RedTiger's-Hackit-Writeup
 date: 2018-03-18
 categories: SQL注入
-tags: [SQL注入]
+tags: SQL注入
 description: RedTiger's-Hackit是一个练习SQL注入的靶场
 ---
 
