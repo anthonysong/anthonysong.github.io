@@ -1,4 +1,12 @@
-/_site
-*.gem
-.sass-cache
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
 Gemfile.lock
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
