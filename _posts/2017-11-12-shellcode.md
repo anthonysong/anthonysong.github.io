@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 一个可以实现文件下载的shellcode
 date: 2017-11-12
 categories: shellcode

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: StanfordCoreNLP
 date: 2018-04-06
 categories: NLP

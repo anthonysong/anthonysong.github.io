@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 异步Windows SOCKET编程
 date: 2017-09-26
 categories: Windows
