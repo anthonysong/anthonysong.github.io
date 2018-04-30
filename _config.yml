@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: "/"
 url: 
 title: Ans
 description: 一个分享技术乐趣的博客
