@@ -18,7 +18,7 @@ theme_settings:
      <p>一个分享技术乐趣的博客</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   <p>&copyright; Ans 2018</p>
+   <p>&copy; 2018 Ans</p>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
