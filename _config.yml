@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /
+baseurl: /project
 
 # variables
 name: Ans
