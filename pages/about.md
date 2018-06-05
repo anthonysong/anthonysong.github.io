@@ -5,4 +5,4 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 ---
 
-这个博客是我用来分享一些学习中的心得和经验的地方。
+ans，伪文青，伪技术宅，专注Web安全，日常两点一线，掉发中。在这里和你分享我的一些经验和想法。希望你能享受技术乐趣。
